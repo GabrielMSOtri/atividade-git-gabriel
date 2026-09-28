@@ -1,0 +1,2 @@
+Olá! Meu nome é Gabriel Henrique Madruga Neres, tenho 18 anos e estudo Inteligência Artificial.
+Estou aprendendo Git e GitHub para organizar meus projetos e quero começar a programar em Python.
